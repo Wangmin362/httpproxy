@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
+	cache "github.com/Wangmin362/httpproxy/cache"
 	"github.com/garyburd/redigo/redis"
-	cache "github.com/sakeven/httpproxy/cache"
 )
 
 // MD5URI returns md5 hash of uri.

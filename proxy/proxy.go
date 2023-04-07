@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sakeven/httpproxy/cache/redis"
+	"github.com/Wangmin362/httpproxy/cache/redis"
 )
 
 // Server is a server of proxy.

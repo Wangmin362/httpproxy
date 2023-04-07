@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sakeven/httpproxy/config"
+	"github.com/Wangmin362/httpproxy/config"
 )
 
 // WebServer is a manager server

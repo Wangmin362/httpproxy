@@ -5,7 +5,7 @@ import (
 
 	stdlog "log"
 
-	"github.com/sakeven/httpproxy/config"
+	"github.com/Wangmin362/httpproxy/config"
 )
 
 var log = logging.MustGetLogger("proxy")

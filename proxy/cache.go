@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	cacheBox "github.com/sakeven/httpproxy/cache"
+	cacheBox "github.com/Wangmin362/httpproxy/cache"
 )
 
 // CacheHandler handles "Get" request
